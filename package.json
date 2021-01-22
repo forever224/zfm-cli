@@ -1,0 +1,21 @@
+{
+  "name": "zfm-cli",
+  "version": "0.0.3",
+  "description": "Usual development to use the help tool",
+  "main": "index.js",
+  "bin": {
+    "zfm": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zhongfumin",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.0.0",
+    "ejs": "^3.1.5",
+    "ora": "^5.2.0"
+  }
+}
