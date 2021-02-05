@@ -17,5 +17,8 @@
     "commander": "^7.0.0",
     "ejs": "^3.1.5",
     "ora": "^5.2.0"
+  },
+  "devDependencies": {
+    "download-git-repo": "^3.0.2"
   }
 }
